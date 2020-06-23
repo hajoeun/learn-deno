@@ -3,5 +3,5 @@
 
 ## Hello World
 ```bash
-$ deno run --allow-net welcome.ts
+$ deno run --allow-net --allow-env welcome.ts
 ```
